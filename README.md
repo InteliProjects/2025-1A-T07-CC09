@@ -1,7 +1,6 @@
-# 2025-1A-T07-CC09
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1bnwq3_-bvGmihJEEwQS2uBKp6edMDb6r/view?usp=drive_link"  width="200">
+    <img src="https://www.google.com/imgres?q=ATVOS%20LOGO&imgurl=https%3A%2F%2Fjornalcana.com.br%2Fwp-content%2Fuploads%2F2019%2F01%2Fatvos_logo-2.png&imgrefurl=https%3A%2F%2Fjornalcana.com.br%2Findustria%2Fcogeracao%2Fusina-da-atvos-em-sao-paulo-vende-11-mil-certificados-de-energia-renovavel%2F&docid=ZlsMIShOBEhHfM&tbnid=QZ1dHNoYzewKdM&vet=12ahUKEwjf1am4_MKNAxUFL7kGHXDbBqIQM3oECGcQAA..i&w=350&h=114&hcb=2&ved=2ahUKEwjf1am4_MKNAxUFL7kGHXDbBqIQM3oECGcQAA"  width="200">
 </div>
 
 
